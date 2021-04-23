@@ -1,5 +1,5 @@
 <h2> Hi, I'm MAICOO ! <img src="https://raw.githubusercontent.com/blankmagic/blankmagic/main/IMG/github-cool.gif" width="50"></h2>
-
+<img align='right' src="https://raw.githubusercontent.com/blankmagic/blankmagic/main/IMG/badge-code.png">
 <p><em>A deadbeat travel practitioner 
 <img src="https://media4.giphy.com/media/JQA7yljbzUC34IrRGR/giphy.gif" width="30"></br>Be keen on network development and learning 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
